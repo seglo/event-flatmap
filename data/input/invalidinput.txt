@@ -1,0 +1,10 @@
+{
+  "app_id": 123,
+  "user_id": 123,
+  "client_app_version": "1.1.1",
+  "device_id": 123,
+  "server_event_timestamp": 123,
+  "events": [
+    ERROR
+  ]
+}
